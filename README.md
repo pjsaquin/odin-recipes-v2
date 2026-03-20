@@ -1,2 +1,2 @@
 # odin-recipes-v2
-This contains the exercises for CSS.
+This project demonstrates the practical application of CSS to structure and style HTML content, developed as part of The Odin Project curriculum.
